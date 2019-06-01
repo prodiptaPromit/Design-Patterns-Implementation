@@ -1,0 +1,10 @@
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\bin\Debug\netcoreapp2.1\Builder Pattern.deps.json
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\bin\Debug\netcoreapp2.1\Builder Pattern.runtimeconfig.json
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\bin\Debug\netcoreapp2.1\Builder Pattern.runtimeconfig.dev.json
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\bin\Debug\netcoreapp2.1\Builder Pattern.dll
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\bin\Debug\netcoreapp2.1\Builder Pattern.pdb
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\obj\Debug\netcoreapp2.1\Builder Pattern.csproj.CoreCompileInputs.cache
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\obj\Debug\netcoreapp2.1\Builder Pattern.AssemblyInfoInputs.cache
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\obj\Debug\netcoreapp2.1\Builder Pattern.AssemblyInfo.cs
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\obj\Debug\netcoreapp2.1\Builder Pattern.dll
+G:\BUBT\4th Year\12th Semester\Software Design Pattern\Implementations\Builder Pattern\Builder Pattern\obj\Debug\netcoreapp2.1\Builder Pattern.pdb

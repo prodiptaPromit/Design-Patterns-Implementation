@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Adapter_Pattern
+{
+    interface IBird
+    {
+        void Fly();
+        void MakeSound();
+    }
+}
